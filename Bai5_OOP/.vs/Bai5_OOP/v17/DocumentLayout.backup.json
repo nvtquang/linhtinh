@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\Bai5_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72D30272-1CA4-4261-818E-CD5C207AF2EE}|Bai5_OOP.csproj|d:\\h\u1ECDc li\u1EC7u haui\\l\u1EADp tr\u00ECnh .net\\data\\bai5_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D30272-1CA4-4261-818E-CD5C207AF2EE}|Bai5_OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D30272-1CA4-4261-818E-CD5C207AF2EE}|Bai5_OOP.csproj|d:\\h\u1ECDc li\u1EC7u haui\\l\u1EADp tr\u00ECnh .net\\data\\bai5_oop\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D30272-1CA4-4261-818E-CD5C207AF2EE}|Bai5_OOP.csproj|solutionrelative:congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D30272-1CA4-4261-818E-CD5C207AF2EE}|Bai5_OOP.csproj|d:\\h\u1ECDc li\u1EC7u haui\\l\u1EADp tr\u00ECnh .net\\data\\bai5_oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D30272-1CA4-4261-818E-CD5C207AF2EE}|Bai5_OOP.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\Bai5_OOP\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\Bai5_OOP\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:14:25.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CongNhan.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\Bai5_OOP\\CongNhan.cs",
+              "RelativeDocumentMoniker": "CongNhan.cs",
+              "ToolTip": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\Bai5_OOP\\CongNhan.cs",
+              "RelativeToolTip": "CongNhan.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:14:06.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\Bai5_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\Bai5_OOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:11:14.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

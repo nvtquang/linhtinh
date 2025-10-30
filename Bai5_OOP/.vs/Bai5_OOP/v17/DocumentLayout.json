@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\Bai5_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE903E7-873B-498D-87F5-97DDB0FD89A3}|..\\GiaoDien\\GiaoDien.csproj|d:\\h\u1ECDc li\u1EC7u haui\\l\u1EADp tr\u00ECnh .net\\data\\giaodien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE903E7-873B-498D-87F5-97DDB0FD89A3}|..\\GiaoDien\\GiaoDien.csproj|d:\\h\u1ECDc li\u1EC7u haui\\l\u1EADp tr\u00ECnh .net\\data\\giaodien\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE903E7-873B-498D-87F5-97DDB0FD89A3}|..\\GiaoDien\\GiaoDien.csproj|d:\\h\u1ECDc li\u1EC7u haui\\l\u1EADp tr\u00ECnh .net\\data\\giaodien\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE903E7-873B-498D-87F5-97DDB0FD89A3}|..\\GiaoDien\\GiaoDien.csproj|d:\\h\u1ECDc li\u1EC7u haui\\l\u1EADp tr\u00ECnh .net\\data\\giaodien\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE903E7-873B-498D-87F5-97DDB0FD89A3}|..\\GiaoDien\\GiaoDien.csproj|d:\\h\u1ECDc li\u1EC7u haui\\l\u1EADp tr\u00ECnh .net\\data\\giaodien\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D30272-1CA4-4261-818E-CD5C207AF2EE}|Bai5_OOP.csproj|d:\\h\u1ECDc li\u1EC7u haui\\l\u1EADp tr\u00ECnh .net\\data\\bai5_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D30272-1CA4-4261-818E-CD5C207AF2EE}|Bai5_OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D30272-1CA4-4261-818E-CD5C207AF2EE}|Bai5_OOP.csproj|d:\\h\u1ECDc li\u1EC7u haui\\l\u1EADp tr\u00ECnh .net\\data\\bai5_oop\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D30272-1CA4-4261-818E-CD5C207AF2EE}|Bai5_OOP.csproj|solutionrelative:congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D30272-1CA4-4261-818E-CD5C207AF2EE}|Bai5_OOP.csproj|d:\\h\u1ECDc li\u1EC7u haui\\l\u1EADp tr\u00ECnh .net\\data\\bai5_oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D30272-1CA4-4261-818E-CD5C207AF2EE}|Bai5_OOP.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\GiaoDien\\Truck.cs",
+              "RelativeDocumentMoniker": "..\\GiaoDien\\Truck.cs",
+              "ToolTip": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\GiaoDien\\Truck.cs",
+              "RelativeToolTip": "..\\GiaoDien\\Truck.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:59:14.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\GiaoDien\\Car.cs",
+              "RelativeDocumentMoniker": "..\\GiaoDien\\Car.cs",
+              "ToolTip": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\GiaoDien\\Car.cs",
+              "RelativeToolTip": "..\\GiaoDien\\Car.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:55:15.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\GiaoDien\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\GiaoDien\\Vehicle.cs",
+              "ToolTip": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\GiaoDien\\Vehicle.cs",
+              "RelativeToolTip": "..\\GiaoDien\\Vehicle.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvy0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:43:39.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\GiaoDien\\IVehicle.cs",
+              "RelativeDocumentMoniker": "..\\GiaoDien\\IVehicle.cs",
+              "ToolTip": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\GiaoDien\\IVehicle.cs",
+              "RelativeToolTip": "..\\GiaoDien\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:43:11.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\GiaoDien\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GiaoDien\\Program.cs",
+              "ToolTip": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\GiaoDien\\Program.cs",
+              "RelativeToolTip": "..\\GiaoDien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:42:18.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\Bai5_OOP\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\Bai5_OOP\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:14:25.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CongNhan.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\Bai5_OOP\\CongNhan.cs",
+              "RelativeDocumentMoniker": "CongNhan.cs",
+              "ToolTip": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\Bai5_OOP\\CongNhan.cs",
+              "RelativeToolTip": "CongNhan.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:14:06.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\Bai5_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\H\u1ECDc li\u1EC7u HaUI\\L\u1EADp tr\u00ECnh .Net\\data\\Bai5_OOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:11:14.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
