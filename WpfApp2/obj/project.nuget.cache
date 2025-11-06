@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0nqAkLC7J/7HfkQzaivs1Pr1JXiLG7Eg2P6LJcCgSHu+bQDfMT/R+FCqTheoWYc1VQiZr3bKqSb6+xDURoktIg==",
+  "success": true,
+  "projectFilePath": "D:\\NgoVanTienQuang_2023602047\\WpfApp2\\WpfApp2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.100.105.102/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
